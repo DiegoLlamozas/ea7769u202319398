@@ -1,0 +1,87 @@
+{
+  "exhibition-galleries": [
+    {
+      "id": 1,
+      "name": "Impressionist & Modern Masters Gallery",
+      "departmentName": "painting",
+      "maxCapacityKg": 1500
+    },
+    {
+      "id": 2,
+      "name": "Classical & Modern Sculpture Hall",
+      "departmentName": "sculpture",
+      "maxCapacityKg": 3500
+    },
+    {
+      "id": 3,
+      "name": "Contemporary Photography Pavilion",
+      "departmentName": "photography",
+      "maxCapacityKg": 800
+    },
+    {
+      "id": 4,
+      "name": "Textile Arts & Tapestry Wing",
+      "departmentName": "textiles",
+      "maxCapacityKg": 1200
+    },
+    {
+      "id": 5,
+      "name": "Prints & Graphic Arts Salon",
+      "departmentName": "prints",
+      "maxCapacityKg": 600
+    },
+    {
+      "id": 6,
+      "name": "Architectural Drawings & Sketches Atrium",
+      "departmentName": "drawings",
+      "maxCapacityKg": 900
+    }
+  ],
+  "artwork-orders": [
+    {
+      "id": "1",
+      "exhibitionGalleryId": 1,
+      "departmentName": "painting",
+      "artworkId": 27992,
+      "artworkTitle": "A Sunday on La Grande Jatte — 1884",
+      "assignedWeightKg": 350,
+      "dispatchedAt": "2026-03-10T09:30:00.000Z"
+    },
+    {
+      "id": "2",
+      "exhibitionGalleryId": 1,
+      "departmentName": "painting",
+      "artworkId": 16568,
+      "artworkTitle": "The Bedroom",
+      "assignedWeightKg": 250,
+      "dispatchedAt": "2026-03-12T14:15:00.000Z"
+    },
+    {
+      "id": "3",
+      "exhibitionGalleryId": 2,
+      "departmentName": "sculpture",
+      "artworkId": 80607,
+      "artworkTitle": "Statue of a Young Herakles",
+      "assignedWeightKg": 1200,
+      "dispatchedAt": "2026-03-15T11:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "exhibitionGalleryId": 3,
+      "departmentName": "photography",
+      "artworkId": 102341,
+      "artworkTitle": "Identical Twins, Roselle, N.J. 1967",
+      "assignedWeightKg": 150,
+      "dispatchedAt": "2026-03-18T16:45:00.000Z"
+    },
+    {
+      "id": "5",
+      "exhibitionGalleryId": 4,
+      "departmentName": "textiles",
+      "artworkId": 118420,
+      "artworkTitle": "Fragment of a Furnishing Fabric",
+      "assignedWeightKg": 200,
+      "dispatchedAt": "2026-03-20T10:20:00.000Z"
+    }
+  ]
+}
